@@ -46,7 +46,7 @@ simple example.c, Uart Receiver interrupt.c, lcd.c, lcd.h
     }
     }
 # output
-    <img width="558" height="375" alt="image" src="https://github.com/user-attachments/assets/80fef17b-42a0-4148-958b-05e4c90fe134" />
+<img width="558" height="375" alt="image" src="https://github.com/user-attachments/assets/80fef17b-42a0-4148-958b-05e4c90fe134" />
 
 
  
